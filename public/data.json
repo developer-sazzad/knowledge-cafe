@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/ZYkfgJX/ad2f351f.webp",
+      "author": "Jane Doe",
+      "title": "The Enchanted Forest",
+      "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
+      "reading_time": "15 min",
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+      
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/B3169Jw/photo-1464411335145-a52ac26409ad.webp",
+      "author": "John Smith",
+      "title": "Tech Revolution",
+      "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
+      "reading_time": "20 min",
+      "hashtags": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/7JZ9J0Z/photo-1464305795204-6f5bbfc7fb81.webp",
+      "author": "Emily White",
+      "title": "Culinary Secrets",
+      "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
+      "reading_time": "10 min",
+      "hashtags": ["#Food", "#Recipes", "#Cooking"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/QfJf242/photo-1464306208223-e0b4495a5553.webp",
+      "author": "Robert Green",
+      "title": "History Unfolded",
+      "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
+      "reading_time": "25 min",
+      "hashtags": ["#History", "#War", "#Politics"]
+    }    
+  ]
+  

@@ -3,9 +3,9 @@
       "id": 1,
       "cover": "https://i.ibb.co.com/ZYkfgJX/ad2f351f.webp",
       "author": "Jane Doe",
-      "title": "The Enchanted Forest",
+      "title": "How to Optimize Your WordPress Website for Faster Loading Times",
       "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
-      "reading_time": "15 min",
+      "reading_time": 15,
       "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
       
     },
@@ -13,27 +13,27 @@
       "id": 2,
       "cover": "https://i.ibb.co.com/B3169Jw/photo-1464411335145-a52ac26409ad.webp",
       "author": "John Smith",
-      "title": "Tech Revolution",
+      "title": "The Ultimate Guide to Creating User-Friendly Navigation in WordPress",
       "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
-      "reading_time": "20 min",
+      "reading_time": 20,
       "hashtags": ["#Technology", "#Innovation", "#Future"]
     },
     {
       "id": 3,
       "cover": "https://i.ibb.co.com/7JZ9J0Z/photo-1464305795204-6f5bbfc7fb81.webp",
       "author": "Emily White",
-      "title": "Culinary Secrets",
+      "title": "Top Plugins Every WordPress Designer Should Use in 2024",
       "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
-      "reading_time": "10 min",
+      "reading_time": 10,
       "hashtags": ["#Food", "#Recipes", "#Cooking"]
     },
     {
       "id": 4,
       "cover": "https://i.ibb.co.com/QfJf242/photo-1464306208223-e0b4495a5553.webp",
       "author": "Robert Green",
-      "title": "History Unfolded",
+      "title": "10 Must-Know Web Design Trends for 2024",
       "author_img": "https://i.ibb.co.com/z2BwdST/1BAY.jpg",
-      "reading_time": "25 min",
+      "reading_time": 25,
       "hashtags": ["#History", "#War", "#Politics"]
     }    
   ]
